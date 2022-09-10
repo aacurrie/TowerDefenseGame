@@ -1,0 +1,52 @@
+{
+    "name": "PlayerInput",
+    "maps": [
+        {
+            "name": "Mouse&Keyboard",
+            "id": "71385243-326c-47f7-a359-2db58b2faecb",
+            "actions": [
+                {
+                    "name": "Click(Select/Place)",
+                    "type": "Button",
+                    "id": "220ae04d-acf9-4177-ac3a-ce1423d525f7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Mouse Position",
+                    "type": "Value",
+                    "id": "66f4731d-1586-4ef0-8cc3-b77d00a037b5",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1c3b620d-c121-42e4-9ef8-594a48e7820a",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click(Select/Place)",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c8b73fe1-aae7-465f-8e53-4504a720bc98",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mouse Position",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

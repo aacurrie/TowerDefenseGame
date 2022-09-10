@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d70f6ce67bbb0b49847ffd88f2aff7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pathBlock: {fileID: 4888356378196944406, guid: 38d228fae5b2ceb40a0ecd41ae0846e5, type: 3}
+  - grassBlock: {fileID: 1806874517755368235, guid: 6de498393891657459032cd40530549c, type: 3}
+  - castle: {fileID: 3257344905488749222, guid: d0d469fdd6fbebb4a821141bd59de31b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

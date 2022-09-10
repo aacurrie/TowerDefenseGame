@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ba6696ed270492940a5daae1996191a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentTarget: {instanceID: 0}
+  - crossBow: {instanceID: 0}
+  - flameThrowerTube: {instanceID: 0}
+  - cannonBarrel: {instanceID: 0}
+  - rangeDepiction: {instanceID: 0}
+  - ClickLeftToSell: {instanceID: 0}
+  - top: {instanceID: 0}
+  - targetUpdate: {instanceID: 0}
+  - towerSource: {instanceID: 0}
+  - towerShoot: {instanceID: 0}
+  - towerSell: {fileID: 8300000, guid: eefe051e9657be34ea7e8be28ca4f10a, type: 3}
+  - placeTower: {fileID: 8300000, guid: ebc526e5a6be39e40857adcad7a0466b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
