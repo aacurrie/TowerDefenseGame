@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Title.unity
+    guid: 9722ec0a52dd6b54a8d2ce1ea9f8d757
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Instructions.unity
+    guid: 23f5663da00072149bb48704ef4bc026
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Tower Guide.unity
+    guid: a8276a8331b8ed848a61caf2ad83ad16
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Tower Guide Page 2.unity
+    guid: 889e552faff3c4c4a8595cd73d9fbe45
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Enemy Guide.unity
+    guid: af36a988d5acc9646aa1e8ecbccecaad
+  - enabled: 1
+    path: Assets/Scenes/Testing Scenes/Chunk Generation.unity
+    guid: d71b1ad04664d9940b2f0cfa68569795
+  - enabled: 0
+    path: Assets/Scenes/GamePlay.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Game Over.unity
+    guid: 44db1a4a84ebbb44fa4c8daf4bd4f0b1
+  m_configObjects: {}
